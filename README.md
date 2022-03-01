@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdevbr
+- 👋 Hi, I’m @kangaceirodev
 - 👀 I’m interested in web development and social network
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on social learning
